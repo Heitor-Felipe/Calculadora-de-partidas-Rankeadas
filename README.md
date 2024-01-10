@@ -1,5 +1,7 @@
 
-Absolutamente Encantado com o Código Criado
+Absolutamente Encantado com o Código Criado 
+
+
 Estou verdadeiramente extasiado com o resultado do código que desenvolvi! A concepção desta simulação de avanço de níveis de jogador em JavaScript foi uma experiência excepcionalmente gratificante. A combinação do desafio técnico com a narrativa envolvente resultou em algo que me enche de satisfação.
 
 A escolha de utilizar um loop while para persistir até atingir o nível "Imortal" proporcionou uma dinâmica fascinante ao código. As funções calcular_saldo_de_vitorias e atribuidorDeNivelDeJogador não apenas organizaram de maneira elegante o código, mas também conferiram uma estrutura lógica e coesa à simulação.
